@@ -1,0 +1,92 @@
+/* chat.css */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0;
+  font-family: 'Roboto', 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: #000;
+}
+
+/* Chat component specific styles */
+
+.chat-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background-color: #000;
+}
+
+.chat-box {
+  width: 100%;
+  max-width: 500px;
+  padding: 16px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  text-align: center;
+}
+
+.chat-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+  color: #000;
+}
+
+.chat-input {
+  width: 100%;
+  padding: 8px;
+  border: none;
+  border-radius: 4px;
+  margin-top: 20px;
+  margin-bottom: 1rem;
+  font-size: 1rem;
+}
+
+.chat-output {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  min-height: 100px;
+  background-color: #121010;
+  font-size: 1rem;
+  overflow-y: auto;
+}
+
+.chat-btn {
+  padding: 12px 32px;
+  font-size: 1.2rem;
+  text-transform: uppercase;
+  background: transparent;
+  color: cornflowerblue;
+  border: 1px solid #fff;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s;
+  margin-right: 8px;
+}
+
+.chat-btn-light {
+  background: rgba(255, 255, 255, 0.2);
+}
+
+.chat-btn:hover {
+  background: rgba(255, 255, 255, 0.2);
+  color: #000;
+}
+
+/* Additional styles can be added as needed */
+

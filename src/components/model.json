@@ -1,0 +1,43 @@
+[
+    {
+      "Question": "What is a stock market index?",
+      "Answer": "A stock market index is a benchmark that tracks the performance of a specific group of stocks, providing insights into the overall market's performance. Examples include the S&P 500 and the Dow Jones Industrial Average."
+    },
+    {
+      "Question": "What are the fundamental analysis and technical analysis approaches to stock analysis?",
+      "Answer": "Fundamental analysis evaluates a stock's intrinsic value by analyzing financial statements and economic factors. Technical analysis, on the other hand, focuses on historical price and volume data to predict future price movements."
+    },
+    {
+      "Question": "How do you calculate the Price-to-Earnings (P/E) ratio of a stock?",
+      "Answer": "The P/E ratio is calculated by dividing the stock's market price per share by its earnings per share (EPS). It's a valuation metric used to assess a stock's relative value."
+    },
+    {
+      "Question": "What is a dividend yield, and how is it calculated?",
+      "Answer": "Dividend yield is the annual dividend payment as a percentage of the stock's current market price. It is calculated by dividing the annual dividend by the stock's market price."
+    },
+    {
+      "Question": "What are the key financial statements used in fundamental analysis?",
+      "Answer": "The main financial statements are the income statement, balance sheet, and cash flow statement. These provide insights into a company's profitability, financial health, and cash flow."
+    },
+    {
+      "Question": "What is the Efficient Market Hypothesis (EMH) in stock market theory?",
+      "Answer": "EMH posits that stock prices already incorporate all available information, making it impossible to consistently achieve above-average returns by analyzing stock data. It has three forms: weak, semi-strong, and strong."
+    },
+    {
+      "Question": "How can you assess a company's growth potential in stock analysis?",
+      "Answer": "Factors to consider include revenue and earnings growth, industry trends, competitive positioning, and the company's strategic plans and innovations."
+    },
+    {
+      "Question": "What is a candlestick chart in technical analysis, and how is it used?",
+      "Answer": "A candlestick chart visually represents the price movement of a stock. It provides information on the opening, closing, high, and low prices for a specific time period and helps identify trends and reversals."
+    },
+    {
+      "Question": "What is diversification in portfolio management, and why is it important?",
+      "Answer": "Diversification involves spreading investments across different asset classes to reduce risk. It's essential because it helps mitigate the impact of poor-performing assets on a portfolio."
+    },
+    {
+      "Question": "How can investors use a stop-loss order to manage risk in stock trading?",
+      "Answer": "A stop-loss order is a predetermined price at which an investor will sell a stock to limit potential losses. It's a risk management tool used to protect against significant price declines."
+    }
+  ]
+  

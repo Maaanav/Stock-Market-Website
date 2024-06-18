@@ -1,0 +1,35 @@
+/* Other styles */
+
+.chatbot-container {
+  color: white; /* Setting the font color to white */
+  background-color: black; /* Background color is black */
+  padding: 20px;
+}
+
+.conversation {
+  margin-top: 20px;
+}
+
+.user,
+.bot {
+  background-color: #444; /* A dark background color for the message boxes */
+  color: white; /* Font color for the messages inside the message boxes */
+  padding: 10px;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+
+.user {
+  align-self: flex-end; /* Align user messages to the right */
+}
+
+.bot {
+  align-self: flex-start; /* Align bot messages to the left */
+}
+
+/* Other styles */
+button {
+  padding: 10px 20px; /* Adjust the padding to increase the button size */
+  margin: 5px; /* Margin between buttons */
+  font-size: 16px; /* Adjust the font size */
+}
